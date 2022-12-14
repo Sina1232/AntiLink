@@ -1,10 +1,5 @@
 <?php
 
-  /**
-   * developer: @DevSinam ( on Telegram )
-   * channel: @AlphaCreate
-   */
-
 define('API_KEY', 'token'); //Token
 
 if (!is_file('webhook.lock')){
